@@ -80,11 +80,11 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sentry.svg" width="48"  height="48" alt="Sentry"/>
 
-<img src="https://raw.githubusercontent.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.svg" width="48" height="48" alt="OpenCV"/>
+<img src="opencv.svg" width="48" height="48" alt="OpenCV"/>
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="48" height="48" alt="Tesseract"/>   <!-- Google ka icon use kar sakte hain as fallback -->
+
 <!-- Ya yeh better: -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tesseract_logo.svg/512px-Tesseract_logo.svg.png" width="48" height="48" alt="Tesseract OCR"/>
+<img src="https://github.com/user-attachments/assets/89169000-c82b-4bf7-82c0-0632d1357962" width="48" height="48" alt="Tesseract OCR"/>
 
 
 </div>
@@ -92,6 +92,7 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 ---
 
 ### 🔥 Featured Projects
+
 
 **🌟 NodeBase (AutomateIt) — Visual Workflow Automation Platform**  
 A modern node-based platform that allows users to drag and drop nodes on an interactive canvas, connect logic flows, set triggers, and execute complex automated workflows.  
