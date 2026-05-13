@@ -19,8 +19,7 @@
 ---
 
 ### 🌟 About Me
-Hey! I'm a passionate developer who loves building things that feel alive — whether it's a visual workflow engine where users drag and connect nodes, or a computer vision tool that can read and solve puzzles from images.
-
+Hey! I'm a passionate developer who loves building things that feel alive — whether it's a visual workflow engine , or a computer vision solutions .
 Currently studying at **NIT Allahabad**, I spend most of my time experimenting across the full stack, solving DSA problems, and shipping projects that help me understand real-world software engineering better. From clean frontends to robust backends and emerging tools like workflow orchestration, I enjoy the complete journey of product building.
 
 **Philosophy**: Code should not only work — it should feel delightful to use and easy to extend.
