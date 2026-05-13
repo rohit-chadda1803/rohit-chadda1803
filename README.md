@@ -58,8 +58,7 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 <img src="trpc.svg" width="48" height="48" alt="tRPC">
 
 <img src="drf_1.svg"  width="70" height="48" alt="Django Rest">
-<!-- White Background -->
-<rect width="100%" height="100%" fill="white"/>
+
 
 <img src="https://github.com/user-attachments/assets/4339383b-0caa-4d73-a361-384fcb86cab9" width="48" height="48" alt="Next.js">
 
@@ -86,7 +85,7 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" width="48" height="48" alt="Git">
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="48" height="48" alt="GitHub">
-<img src="opencv.svg" height="48" alt="OpenCV"> 
+<img src="open_cv.svg" height="48" alt="OpenCV"> 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" width="48" height="48" alt="Figma">
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" width="48" height="48" alt="Heroku">
 
