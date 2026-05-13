@@ -54,9 +54,12 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 
 <h3>Backend</h3>
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg" width="48" height="48" alt="Django">
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" width="48" height="48" alt="Node.js">
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/trpc.svg" width="48" height="48" alt="tRPC">
+<img src="https://github.com/user-attachments/assets/135a9f6a-ba2c-4b4c-b0cd-08b7560333f6" width="48" height="48" alt="Django">
+
+<img src="https://github.com/user-attachments/assets/470c56ac-6644-4007-a17a-01b2d0f007d1" width="48" height="48" alt="tRPC">
+
+
+
 
 
 
@@ -78,7 +81,7 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="48" height="48" alt="VS Code"/>
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sentry.svg" width="48"  height="48" alt="Sentry"/>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sentry.svg" width="48"  height="48" alt="Sentry"/>
 
 <img src="opencv.svg" width="48" height="48" alt="OpenCV"/>
 
