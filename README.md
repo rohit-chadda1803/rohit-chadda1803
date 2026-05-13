@@ -94,7 +94,7 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sentry.svg" width="48"  height="48" alt="Sentry"/>
 
-<img src="opencv.svg" width="48" height="48" alt="OpenCV"/>
+
 
 
 <!-- Ya yeh better: -->
