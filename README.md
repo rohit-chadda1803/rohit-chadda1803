@@ -1,8 +1,6 @@
 <div align="center">
   
-  <img src=" https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner6.gif " width="720" alt="Rohit Chadda - Building"/>
-
-  
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" width="720" alt="Banner"/>
 
   ![Animation](https://raw.githubusercontent.com/rohit-chadda1803/rohit-chadda1803/main/assets/coding.gif)
   
@@ -33,38 +31,61 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 ---
 
-### 🛠️ Tech Arsenal
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
-<div align="center">
+<div align="left">
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<h3>Languages</h3>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="48" height="48" alt="Python">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" width="48" height="48" alt="TypeScript">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width="48" height="48" alt="JavaScript">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg" width="48" height="48" alt="Go">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" width="48" height="48" alt="C++">
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React Flow](https://img.shields.io/badge/React%20Flow-FF69B4?style=for-the-badge&logo=react&logoColor=white)
 
-**Backend**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-FF4F4F?style=for-the-badge&logo=serverless&logoColor=white)
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h3> Frontend </h3>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" width="48" height="48" alt="React">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" width="48" height="48" alt="Next.js">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="48" height="48" alt="Tailwind">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="48" height="48" alt="HTML">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="48" height="48" alt="CSS">
 
-**Tools & Libraries**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract-1E90FF?style=for-the-badge&logo=google&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+
+<h3>Backend</h3>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg" width="48" height="48" alt="Django">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" width="48" height="48" alt="Node.js">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/trpc.svg" width="48" height="48" alt="tRPC">
+
+
+
+<h3>Databases</h3>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" width="48" height="48" alt="MongoDB">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" width="48" height="48" alt="MySQL">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" width="48" height="48" alt="SQLite">
+
+
+
+<h3>Tools & Libraries</h3>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg" width="48" height="48" alt="OpenCV">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" width="48" height="48" alt="Git">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="48" height="48" alt="GitHub">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" width="48" height="48" alt="Figma">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" width="48" height="48" alt="Heroku">
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="48" height="48" alt="VS Code"/>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sentry.svg" width="48"  height="48" alt="Sentry"/>
+
+<img src="https://raw.githubusercontent.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.svg" width="48" height="48" alt="OpenCV"/>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="48" height="48" alt="Tesseract"/>   <!-- Google ka icon use kar sakte hain as fallback -->
+<!-- Ya yeh better: -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tesseract_logo.svg/512px-Tesseract_logo.svg.png" width="48" height="48" alt="Tesseract OCR"/>
+
 
 </div>
 
