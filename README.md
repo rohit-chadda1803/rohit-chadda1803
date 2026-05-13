@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://i.imgur.com/8fZ7K4D.gif" width="720" alt="Rohit Chadda - Building"/>
+  
+  <img src=" https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner6.gif " width="720" alt="Rohit Chadda - Building"/>
+
+  
 
   ![Animation](https://raw.githubusercontent.com/rohit-chadda1803/rohit-chadda1803/main/assets/coding.gif)
   
