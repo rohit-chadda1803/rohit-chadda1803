@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.imgur.com/8fZ7K4D.gif" width="720" height="300" alt="Rohit Coding Animation"/>
+  <img src="https://i.imgur.com/8fZ7K4D.gif" width="720" alt="Rohit Chadda - Building"/>
   
-  <h1>Hey, I'm Rohit Chadda 👋</h1>
-  <p><strong>Full-Stack Developer | Building Interactive Systems & Intelligent Tools</strong><br>
+  <h1>Hi, I'm Rohit Chadda 👋</h1>
+  <p><strong>Full-Stack Developer | Building Interactive Systems & Intelligent Applications</strong><br>
   NIT Allahabad • Batch 2027</p>
 
   <a href="https://www.linkedin.com/in/rohit-chadda-0b4a03335/">
@@ -20,11 +20,11 @@
 
 ### 🌟 About Me
 
-I’m a passionate full-stack developer who loves creating **interactive and intelligent applications**. From visual workflow automation platforms to computer vision tools that can read and solve puzzles — I enjoy going deep into problems and building solutions that feel alive.
+I’m a passionate full-stack developer with a strong interest in building interactive and intelligent applications. From visual workflow automation platforms to computer vision solutions, I enjoy turning complex ideas into clean, functional products.
 
-Studying at **NIT Allahabad**, I focus on writing clean, scalable code and shipping real projects rather than just following tutorials. I believe in understanding systems from the inside out.
+Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code, understanding system design, and developing real-world applications rather than following surface-level tutorials.
 
-**"Build meaningful things. Break them. Make them better."**
+> **"Code is not just about writing — it's about creating meaningful impact."**
 
 ---
 
@@ -35,6 +35,7 @@ Studying at **NIT Allahabad**, I focus on writing clean, scalable code and shipp
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -44,16 +45,21 @@ Studying at **NIT Allahabad**, I focus on writing clean, scalable code and shipp
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React Flow](https://img.shields.io/badge/React%20Flow-FF69B4?style=for-the-badge&logo=react&logoColor=white)
 
-**Backend & Tools**  
+**Backend**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Django REST Framework](https://img.shields.io/badge/django--rest--framework-3.12.4-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue)](https://www.django-rest-framework.org/)
-
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![Inngest](https://img.shields.io/badge/Inngest-FF4F4F?style=for-the-badge&logo=serverless&logoColor=white)
 
-**Vision + Databases**  
-**OpenCV • Tesseract OCR • Sentry • Polar • PostgreSQL • MongoDB • System Design**
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Libraries**  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-1E90FF?style=for-the-badge&logo=google&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 </div>
 
@@ -62,44 +68,41 @@ Studying at **NIT Allahabad**, I focus on writing clean, scalable code and shipp
 ### 🔥 Featured Projects
 
 **🌟 NodeBase (AutomateIt) — Visual Workflow Automation Platform**  
-A powerful node-based platform where users can drag and drop nodes on an interactive canvas, connect them logically, set triggers, and execute complex automated workflows.  
+A modern node-based platform that allows users to drag and drop nodes on an interactive canvas, connect logic flows, set triggers, and execute complex automated workflows.  
 
-**My Contributions**: Set up tRPC for type-safe communication, integrated Sentry for error monitoring, worked extensively on React Flow canvas logic and frontend interactions, implemented Inngest triggers for background jobs, and helped with Polar integrations. This project gave me deep exposure to building real developer tools and managing complex frontend state.
+**My Contributions**: Implemented tRPC for type-safe APIs, integrated Sentry for monitoring, developed React Flow canvas interactions, added Inngest background job triggers, and worked on Polar integrations. This project significantly strengthened my understanding of complex frontend architecture and developer tooling.
 
 **🐍 CobraKai — Intelligent Image Puzzle Solver**  
-An end-to-end computer vision application that takes an image uploaded via Django frontend, applies OpenCV preprocessing and thresholding, extracts text/characters using Tesseract OCR, and automatically solves the puzzle using a custom Python solver trained on Kaggle datasets.  
+An end-to-end computer vision application that accepts puzzle images from a Django frontend, processes them using OpenCV (thresholding & preprocessing), extracts text using Tesseract OCR, and solves the puzzle automatically with a Python solver trained on Kaggle datasets.
 
-Demonstrates strong integration between web technologies and classical computer vision + algorithmic solving.
-
-**🏨 Abook — Smart Room Booking System**  
-Full-featured accommodation booking platform with search, real-time availability checking, reservation management, and smooth user experience.
+**🏨 Abook — Room Booking System**  
+Full-featured accommodation booking platform with search, availability management, and reservation system.
 
 **📚 StudyBud**  
-Collaborative study platform built with Django that helps students create groups, share resources, and stay organized together.
+Collaborative study platform built with Django, designed to help students connect, share resources, and manage study groups.
 
-**🛒 MyCart — Complete Django E-Commerce**  
-Feature-rich online store including product catalog, review blog, cart system, order tracking, and admin panel — showcasing end-to-end e-commerce architecture.
+**🛒 MyCart — Django E-Commerce Platform**  
+Complete online shopping application featuring product catalog, review blog, cart functionality, and order tracking system.
 
-**[Explore All Repositories →](https://github.com/rohit-chadda1803?tab=repositories)**
+**[View All Repositories →](https://github.com/rohit-chadda1803?tab=repositories)**
 
 ---
 
-### 🏆 Achievements & Journey
+### 🏆 Journey & Milestones
 
-- Actively contributing to group projects involving modern tooling (tRPC, React Flow, Inngest, etc.)
-- Built multiple full-stack applications from scratch
-- Consistent DSA practice and problem-solving
-- Exploring Computer Vision and Workflow Automation tools
+- Actively contributed to group projects using modern tools like tRPC, React Flow, and Inngest  
+- Developed multiple full-stack applications from scratch  
+- Exploring Computer Vision and Workflow Automation  
+- Regular DSA practice and system design learning
 
 ---
 
 ### 🚀 Future Goals
 
-- Ship my own complete Visual Workflow product
-- Build more Computer Vision applications
-- Deep dive into System Design & Scalable Architectures
-- Contribute to open source projects
-- Become a well-rounded, production-ready developer
+- Build and ship my own production-grade Visual Workflow tool  
+- Create more advanced Computer Vision applications  
+- Deepen expertise in System Design and scalable architectures  
+- Make meaningful open-source contributions
 
 ---
 
@@ -112,7 +115,7 @@ Feature-rich online store including product catalog, review blog, cart system, o
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/8fZ7K4D.gif" width="620" alt="Developer Vibes"/>
-  <p><strong>Thanks for stopping by! ✨</strong><br>
-  Feel free to explore my projects and reach out if you want to collaborate or discuss ideas.</p>
+  <img src="https://i.imgur.com/8fZ7K4D.gif" width="680" alt="Keep Building"/>
+  <p><strong>Thank you for visiting! ✨</strong><br>
+  Feel free to explore my projects and reach out if you'd like to connect or collaborate.</p>
 </div>
