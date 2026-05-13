@@ -46,7 +46,7 @@ Currently studying at **NIT Allahabad**, I spend most of my time experimenting a
 **Backend & Databases**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white)
-![Next.js](https://shields.io)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white)
 
 **Databases**  
