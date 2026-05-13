@@ -59,6 +59,8 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 <img src="drf.svg" width="48" height="48" alt="Django Rest">
 
+<img src="https://github.com/user-attachments/assets/4339383b-0caa-4d73-a361-384fcb86cab9" width="48" height="48" alt="Next.js">
+
 
 
 <img src="https://cdn.brandfetch.io/idK0lowSpn/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="inngest">
@@ -152,7 +154,7 @@ Complete online shopping application featuring product catalog, review blog, car
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/8fZ7K4D.gif" width="680" alt="Keep Building"/>
+ <!-- <img src="https://i.imgur.com/8fZ7K4D.gif" width="680" alt="Keep Building"/> --->
   <p><strong>Thank you for visiting! ✨</strong><br>
   Feel free to explore my projects and reach out if you'd like to connect or collaborate.</p>
 </div>
