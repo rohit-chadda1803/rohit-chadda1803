@@ -57,7 +57,9 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 <img src="trpc.svg" width="48" height="48" alt="tRPC">
 
-<img src="drf.svg"  width="48" height="48" alt="Django Rest">
+<img src="drf_1.svg"  width="48" height="48" alt="Django Rest">
+<!-- White Background -->
+<rect width="100%" height="100%" fill="white"/>
 
 <img src="https://github.com/user-attachments/assets/4339383b-0caa-4d73-a361-384fcb86cab9" width="48" height="48" alt="Next.js">
 
