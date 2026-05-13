@@ -46,17 +46,16 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 <h3> Frontend </h3>
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" width="48" height="48" alt="React">
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" width="48" height="48" alt="Next.js">
+<img src="https://github.com/user-attachments/assets/4339383b-0caa-4d73-a361-384fcb86cab9" width="48" height="48" alt="Next.js">
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="48" height="48" alt="Tailwind">
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="48" height="48" alt="HTML">
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="48" height="48" alt="CSS">
 
 
-
 <h3>Backend</h3>
 <img src="django.svg" width="48" height="48" alt="Django">
 
-<img src="https://github.com/user-attachments/assets/470c56ac-6644-4007-a17a-01b2d0f007d1" width="48" height="48" alt="tRPC">
+<img src="trpc.svg" width="48" height="48" alt="tRPC">
 
 
 
