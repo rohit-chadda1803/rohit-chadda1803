@@ -57,6 +57,7 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 <img src="trpc.svg" width="48" height="48" alt="tRPC">
 
+<img src="drf.svg" width="48" height="48" alt="Django Rest">
 
 
 
