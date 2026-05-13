@@ -60,6 +60,13 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 
 
+<img src="https://cdn.brandfetch.io/idK0lowSpn/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="inngest">
+
+
+
+
+
+
 
 
 <h3>Databases</h3>
