@@ -86,7 +86,7 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" width="48" height="48" alt="Git">
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="48" height="48" alt="GitHub">
-<img src="opencv.svg" height="48" alt="OpenCV"> 
+
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" width="48" height="48" alt="Figma">
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" width="48" height="48" alt="Heroku">
 
