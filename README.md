@@ -54,7 +54,7 @@ Currently pursuing my degree at NIT Allahabad, I focus on writing scalable code,
 
 
 <h3>Backend</h3>
-<img src="https://github.com/user-attachments/assets/135a9f6a-ba2c-4b4c-b0cd-08b7560333f6" width="48" height="48" alt="Django">
+<img src="django.svg" width="48" height="48" alt="Django">
 
 <img src="https://github.com/user-attachments/assets/470c56ac-6644-4007-a17a-01b2d0f007d1" width="48" height="48" alt="tRPC">
 
